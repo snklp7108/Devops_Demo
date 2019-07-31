@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45212" started-at="2019-07-31T05:45:12Z" finished-at="2019-07-31T05:45:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45212" started-at="2019-07-31T05:45:12Z" finished-at="2019-07-31T05:45:57Z">
+      <class name="qa.com.test.HomeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qa.com.test.HomeTest@77cd7a0]" name="setUp" is-config="true" duration-ms="7457" started-at="2019-07-31T11:15:28Z" finished-at="2019-07-31T11:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUsernameTest()[pri:1, instance:qa.com.test.HomeTest@77cd7a0]" name="verifyUsernameTest" duration-ms="878" started-at="2019-07-31T11:15:35Z" finished-at="2019-07-31T11:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.com.test.HomeTest@77cd7a0]" name="tearDown" is-config="true" duration-ms="780" started-at="2019-07-31T11:15:36Z" finished-at="2019-07-31T11:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qa.com.test.HomeTest@77cd7a0]" name="setUp" is-config="true" duration-ms="7310" started-at="2019-07-31T11:15:37Z" finished-at="2019-07-31T11:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="lnkViewContactTest()[pri:2, instance:qa.com.test.HomeTest@77cd7a0]" name="lnkViewContactTest" duration-ms="1066" started-at="2019-07-31T11:15:44Z" finished-at="2019-07-31T11:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lnkViewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.com.test.HomeTest@77cd7a0]" name="tearDown" is-config="true" duration-ms="854" started-at="2019-07-31T11:15:45Z" finished-at="2019-07-31T11:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qa.com.test.HomeTest@77cd7a0]" name="setUp" is-config="true" duration-ms="7584" started-at="2019-07-31T11:15:46Z" finished-at="2019-07-31T11:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="myContactTest()[pri:3, instance:qa.com.test.HomeTest@77cd7a0]" name="myContactTest" duration-ms="2705" started-at="2019-07-31T11:15:53Z" finished-at="2019-07-31T11:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.com.test.HomeTest@77cd7a0]" name="tearDown" is-config="true" duration-ms="931" started-at="2019-07-31T11:15:56Z" finished-at="2019-07-31T11:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.com.test.HomeTest -->
+      <class name="qa.com.test.LoginTestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qa.com.test.LoginTestPage@4667ae56]" name="setUp" is-config="true" duration-ms="6540" started-at="2019-07-31T11:15:12Z" finished-at="2019-07-31T11:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:qa.com.test.LoginTestPage@4667ae56]" name="loginPageTitleTest" duration-ms="18" started-at="2019-07-31T11:15:18Z" finished-at="2019-07-31T11:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.com.test.LoginTestPage@4667ae56]" name="tearDown" is-config="true" duration-ms="934" started-at="2019-07-31T11:15:18Z" finished-at="2019-07-31T11:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qa.com.test.LoginTestPage@4667ae56]" name="setUp" is-config="true" duration-ms="6049" started-at="2019-07-31T11:15:19Z" finished-at="2019-07-31T11:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginToCyclo()[pri:2, instance:qa.com.test.LoginTestPage@4667ae56]" name="loginToCyclo" duration-ms="1223" started-at="2019-07-31T11:15:25Z" finished-at="2019-07-31T11:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToCyclo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.com.test.LoginTestPage@4667ae56]" name="tearDown" is-config="true" duration-ms="860" started-at="2019-07-31T11:15:27Z" finished-at="2019-07-31T11:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.com.test.LoginTestPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
